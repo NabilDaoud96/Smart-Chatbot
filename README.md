@@ -33,7 +33,7 @@ Der DB-ChatBot Assistant nutzt ein KI-Modell von OpenAI, um Benutzereingaben in 
 
    ```bash
    git clone git@github.com:NabilDaoud96/Smart-Chatbot.git
-   cd db-chatbot
+   cd Smart-Chatbot-main
    python setup_database_SQLite.py
    pip install -r requirements.txt
 
